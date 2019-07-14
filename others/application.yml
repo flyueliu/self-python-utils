@@ -1,0 +1,23 @@
+active: dev
+profiles:
+  dev:
+    database:
+      mysql:
+        userName: root
+        password: "****"
+        host: 127.0.0.1
+        port: 3306
+        db: db
+      SQLServer:
+        userName: root
+        host: 127.0.0.1
+        db: db
+        port: 1433
+        password: "****"
+  prod:
+    database:
+      mysql:
+        userName: root
+        password: "****"
+        host: 127.0.0.1
+        port: 3306
