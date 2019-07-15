@@ -32,6 +32,7 @@ class Sl4jLogger(object):
 
 if __name__ == '__main__':
     logger = Sl4jLogger()
+    print(id(logger))
     logger.debug("{}", "debug formart")
     logger.info("If you're using Python {}, prefer {feature} of course!", 3.6, feature="f-strings")
     logger.debug("{name}", name="you name")
@@ -42,3 +43,6 @@ if __name__ == '__main__':
         logger.error("{}", e)
         # 输出异常的message+ 异常的堆栈信息
         logger.exception(e)
+    import logger_test
+    u=logger_test.User()
+    u.get()

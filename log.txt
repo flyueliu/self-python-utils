@@ -1,0 +1,68 @@
+2019-07-15 23:05:54,568 - __main__.<module>:39 - [INFO] - Start print log
+2019-07-15 23:05:54,568 - __main__.<module>:40 - [DEBUG] - Do something
+2019-07-15 23:05:54,568 - __main__.<module>:41 - [WARNING] - Something maybe fail.
+2019-07-15 23:05:54,568 - __main__.<module>:42 - [INFO] - Finish
+2019-07-15 23:05:54,568 - __main__.get:34 - [DEBUG] - get function debug
+2019-07-15 23:07:29,258 - common_logger.<module>:6 - [INFO] - sadasda
+2019-07-15 23:08:31,943 - common_logger.<module>:16 - [INFO] - programmer execute
+2019-07-15 23:08:31,943 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:08:31,943 - common_logger.get:12 - [INFO] - get user
+2019-07-15 23:09:29,705 - common_logger.<module>:16 - [INFO] - programmer execute
+2019-07-15 23:09:29,705 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:09:29,705 - common_logger.get:12 - [INFO] - get user
+2019-07-15 23:10:10,727 - __main__.<module>:40 - [INFO] - Start print log
+2019-07-15 23:10:10,727 - __main__.<module>:41 - [DEBUG] - Do something
+2019-07-15 23:10:10,727 - __main__.<module>:42 - [WARNING] - Something maybe fail.
+2019-07-15 23:10:10,727 - __main__.<module>:43 - [INFO] - Finish
+2019-07-15 23:10:10,727 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:10:10,741 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:10:10,741 - common_logger.get:12 - [INFO] - get user
+2019-07-15 23:11:38,595 - __main__.<module>:40 - [INFO] - Start print log
+2019-07-15 23:11:38,595 - __main__.<module>:41 - [DEBUG] - Do something
+2019-07-15 23:11:38,595 - __main__.<module>:42 - [WARNING] - Something maybe fail.
+2019-07-15 23:11:38,596 - __main__.<module>:43 - [INFO] - Finish
+2019-07-15 23:11:38,596 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:11:49,595 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:11:49,595 - common_logger.get:12 - [INFO] - get user
+2019-07-15 23:12:29,837 - __main__.<module>:40 - [INFO] - Start print log
+2019-07-15 23:12:29,837 - __main__.<module>:41 - [DEBUG] - Do something
+2019-07-15 23:12:29,837 - __main__.<module>:42 - [WARNING] - Something maybe fail.
+2019-07-15 23:12:29,837 - __main__.<module>:43 - [INFO] - Finish
+2019-07-15 23:12:29,837 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:12:29,851 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:12:29,851 - common_logger.get:13 - [INFO] - get user
+2019-07-15 23:12:50,775 - __main__.<module>:40 - [INFO] - Start print log
+2019-07-15 23:12:50,775 - __main__.<module>:41 - [DEBUG] - Do something
+2019-07-15 23:12:50,775 - __main__.<module>:42 - [WARNING] - Something maybe fail.
+2019-07-15 23:12:50,775 - __main__.<module>:43 - [INFO] - Finish
+2019-07-15 23:12:50,775 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:12:50,784 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:12:50,784 - common_logger.get:13 - [INFO] - get user
+2019-07-15 23:13:10,375 - __main__.<module>:40 - [INFO] - Start print log
+2019-07-15 23:13:10,376 - __main__.<module>:41 - [DEBUG] - Do something
+2019-07-15 23:13:10,376 - __main__.<module>:42 - [WARNING] - Something maybe fail.
+2019-07-15 23:13:10,376 - __main__.<module>:43 - [INFO] - Finish
+2019-07-15 23:13:10,376 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:13:10,385 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:13:10,385 - common_logger.get:13 - [INFO] - get user
+2019-07-15 23:16:11,469 - __main__.<module>:40 - [INFO] - Start print log
+2019-07-15 23:16:11,469 - __main__.<module>:41 - [DEBUG] - Do something
+2019-07-15 23:16:11,469 - __main__.<module>:42 - [WARNING] - Something maybe fail.
+2019-07-15 23:16:11,470 - __main__.<module>:43 - [INFO] - Finish
+2019-07-15 23:16:11,470 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:16:11,484 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:16:11,484 - common_logger.get:13 - [INFO] - get user
+2019-07-15 23:16:57,036 - __main__.<module>:40 - [INFO] - Start print log
+2019-07-15 23:16:57,036 - __main__.<module>:41 - [DEBUG] - Do something
+2019-07-15 23:16:57,036 - __main__.<module>:42 - [WARNING] - Something maybe fail.
+2019-07-15 23:16:57,037 - __main__.<module>:43 - [INFO] - Finish
+2019-07-15 23:16:57,037 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:16:57,045 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:16:57,045 - common_logger.get:13 - [INFO] - get user
+2019-07-15 23:17:31,993 - __main__.<module>:41 - [INFO] - Start print log
+2019-07-15 23:17:31,993 - __main__.<module>:42 - [DEBUG] - Do something
+2019-07-15 23:17:31,994 - __main__.<module>:43 - [WARNING] - Something maybe fail.
+2019-07-15 23:17:31,994 - __main__.<module>:44 - [INFO] - Finish
+2019-07-15 23:17:31,994 - __main__.get:35 - [DEBUG] - get function debug
+2019-07-15 23:17:32,007 - common_logger.__init__:9 - [DEBUG] - user init
+2019-07-15 23:17:32,007 - common_logger.get:13 - [INFO] - get user
