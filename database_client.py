@@ -121,7 +121,7 @@ class MYSQLClient(BaseClient):
                 user=self.user,
                 passwd=self.passwd,
                 database=self.db,
-                charset='utf8'
+                charset='utf8mb4'
             )
         except Exception as e:
             logging.error("connect database error!")
