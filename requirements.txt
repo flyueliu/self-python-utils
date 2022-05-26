@@ -138,7 +138,7 @@ tensorflow==1.12.0
 termcolor==1.1.0
 tornado==5.0.2
 traitlets==4.3.2
-Twisted==19.2.0
+Twisted==22.4.0
 tzlocal==1.5.1
 u-msgpack-python==2.5.0
 unicodecsv==0.14.1
